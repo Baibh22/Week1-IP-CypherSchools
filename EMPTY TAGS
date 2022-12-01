@@ -1,31 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@Baibh22 
-SHIVAMP149
-/
-week1-IP-CipherSchools
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-week1-IP-CipherSchools/Empty_tags.html
-@SHIVAMP149
-SHIVAMP149 EMPTY TAGS
-Latest commit 913e37d 6 days ago
- History
- 1 contributor
-56 lines (54 sloc)  1.79 KB
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -52,10 +24,10 @@ Latest commit 913e37d 6 days ago
 
     <P>
         <H1>HR TAG</H1>
-        HELLO MY NAME IS SHIVAM PRAKASH.
+        HELLO MY NAME IS BAIBHAV SINHA.
         <!--HR TAG IS USED FOR GIVING LINE BETWEEN TWO LINES-->
         <HR>
-        I AM FROM DELHI KAROL BAGH
+        I AM FROM BIHAR
     </P>
     <P>
         <!--SPACE FORMATTING-->
